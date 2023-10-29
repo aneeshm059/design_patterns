@@ -8,6 +8,7 @@
   <modules>
     <module>factory_pattern</module>
     <module>singleton_pattern</module>
+    <module>abstract_factory_pattern</module>
   </modules>
   <packaging>pom</packaging>
 
